@@ -1,3 +1,3 @@
 # SilverAutoShutdown
 
-Basic /home command for my Unturned server
+Basic auto shutdown script for Unturned
